@@ -14,4 +14,4 @@ student_capital = student_name.upper()
 print('The student name is: ', student_capital)
 
 #The system must display the student's final grade.
-print(total_grade, 'is the finalgrade of', student_capital)
+print(total_grade, 'is the final grade of', student_capital)
